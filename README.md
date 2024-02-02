@@ -1,1 +1,1 @@
-# Digital_BH-meter_NI_DAQ
+BH-meter based on NI DAQ and LabVIEW. Hysteresis loop measurements were carried out in real time on a four-channel DAQ-9215 running LabVIEW-2015. The sensitivity of the device was sufficient to measure hysteresis loops from the thinnest ferromagnetic wires with various types of magnetic anisotropy. The project was carried out for the Institute for Composites Science Innovation (InCSI, http://www.composites.zju.edu.cn/en/index.asp), Zhejiang University, China.
