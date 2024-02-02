@@ -1,0 +1,13 @@
+ Excitation coil resistance (Ohm) =        2.500000000000000
+ Excitation coil inductance (mH) =       18.400000873953100
+ Excitation voltage amplitude (V) =       30.000000000000000
+ 
+ ****************************************************
+ 
+ Pickup coil diameter (mm) =   1.000000047497451E-002
+ Pickup coil length (mm) =   3.000000142492354E-002
+ Pickup coil wire diameter (mm) =   8.705900413508061E-002
+ Number of layers =          40
+ Turns in each layer =      344.000000000000000
+ Total turns =    13760.000000000000000
+ Total diameter (mm) =       16.964720805780960
